@@ -1,6 +1,6 @@
 # AI Landing Page
 
-This project is a starter template for the AI landing page project created by Frontend Tribe.
+This project is based on the AI landing page starter template provided by Frontend Tribe, and I followed their tutorial to complete the development of the site.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
